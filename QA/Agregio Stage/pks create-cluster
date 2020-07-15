@@ -1,0 +1,1 @@
+pks create-cluster agregio-stage --external-hostname k8s-agregio-stage.energy2market.de --plan stage --network-profile agregio-stage-np

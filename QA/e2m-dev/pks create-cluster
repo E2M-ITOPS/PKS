@@ -1,0 +1,1 @@
+pks create-cluster e2m-dev --external-hostname k8s-e2m-dev.energy2market.de --plan dev --network-profile e2m-dev-np
