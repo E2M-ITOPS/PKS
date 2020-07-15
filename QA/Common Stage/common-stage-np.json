@@ -1,11 +1,11 @@
 {
-  "name": "vpp-germany-dev-np",
-  "description": "vpp-germany-dev ingress network profile",
+  "name": "common-stage-np",
+  "description": "common-stage ingress network profile",
   "parameters": {
     "cni_configurations": {
       "parameters": {
         "nsx_ingress_controller": true,
-        "ingress_ip": "10.49.83.58",
+        "ingress_ip": "10.49.83.59",
         "nsx_lb": true
       },
       "type": "nsxt"
