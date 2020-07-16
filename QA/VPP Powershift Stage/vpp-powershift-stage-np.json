@@ -1,11 +1,11 @@
 {
-  "name": "common-stage-np",
-  "description": "common-stage ingress network profile",
+  "name": "vpp-powershift-stage-np",
+  "description": "vpp-powershift-stage ingress network profile",
   "parameters": {
     "cni_configurations": {
       "parameters": {
         "nsx_ingress_controller": true,
-        "ingress_ip": "10.49.83.59",
+        "ingress_ip": "10.49.83.60",
         "nsx_lb": true
       },
       "type": "nsxt"

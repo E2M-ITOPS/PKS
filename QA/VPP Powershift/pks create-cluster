@@ -1,1 +1,0 @@
-pks create-cluster common-stage --external-hostname k8s-common-stage.energy2market.de --plan dev --network-profile common-stage-np
