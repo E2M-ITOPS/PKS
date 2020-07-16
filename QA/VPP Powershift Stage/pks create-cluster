@@ -1,1 +1,1 @@
-pks create-cluster vpp-powershift-stage --external-hostname k8s-vpp-powershift-stage.energy2market.de --plan dev --network-profile vpp-powershift-stage-np
+pks create-cluster vpp-powershift-stage --external-hostname k8s-vpp-powershift-stage.energy2market.de --plan stage --network-profile vpp-powershift-stage-np
