@@ -5,7 +5,7 @@
     "cni_configurations": {
       "parameters": {
         "nsx_ingress_controller": true,
-        "ingress_ip": "10.49.83.59",
+        "ingress_ip": "10.49.83.61",
         "nsx_lb": true
       },
       "type": "nsxt"
