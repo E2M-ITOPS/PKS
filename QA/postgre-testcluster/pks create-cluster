@@ -1,0 +1,1 @@
+pks create-cluster postgre-testcluster --external-hostname k8s-postgre-testcluster.energy2market.de --plan stage --network-profile postgre-testcluster-np
