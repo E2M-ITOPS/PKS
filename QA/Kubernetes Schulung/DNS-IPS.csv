@@ -1,0 +1,35 @@
+Clustername;DNS Name;;;
+test01;test01;energy2market.de;10.49.83.61;NSX-T Ingress
+test02;test02;energy2market.de;10.49.83.62;NSX-T Ingress
+test03;test03;energy2market.de;10.49.83.63;NSX-T Ingress
+test04;test04;energy2market.de;10.49.83.64;NSX-T Ingress
+test05;test05;energy2market.de;10.49.83.65;NSX-T Ingress
+test06;test06;energy2market.de;10.49.83.66;NSX-T Ingress
+test07;test07;energy2market.de;10.49.83.67;NSX-T Ingress
+test08;test08;energy2market.de;10.49.83.68;NSX-T Ingress
+test09;test09;energy2market.de;10.49.83.69;NSX-T Ingress
+test10;test10;energy2market.de;10.49.83.70;NSX-T Ingress
+test11;test11;energy2market.de;10.49.83.71;NSX-T Ingress
+test12;test12;energy2market.de;10.49.83.72;NSX-T Ingress
+test13;test13;energy2market.de;10.49.83.73;NSX-T Ingress
+test14;test14;energy2market.de;10.49.83.74;NSX-T Ingress
+test15;test15;energy2market.de;10.49.83.75;NSX-T Ingress
+test16;test16;energy2market.de;10.49.83.76;NSX-T Ingress
+test17;test17;energy2market.de;10.49.83.77;NSX-T Ingress
+test01;k8s-test01;energy2market.de;10.49.84.50;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test02;k8s-test02;energy2market.de;10.49.84.52;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test03;k8s-test03;energy2market.de;10.49.84.54;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test04;k8s-test04;energy2market.de;10.49.84.56;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test05;k8s-test05;energy2market.de;10.49.84.58;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test06;k8s-test06;energy2market.de;10.49.84.60;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test07;k8s-test07;energy2market.de;10.49.84.62;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test08;k8s-test08;energy2market.de;10.49.84.64;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test09;k8s-test09;energy2market.de;10.49.84.66;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test10;k8s-test10;energy2market.de;10.49.84.68;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test11;k8s-test11;energy2market.de;10.49.84.70;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test12;k8s-test12;energy2market.de;10.49.84.72;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test13;k8s-test13;energy2market.de;10.49.84.90;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test14;k8s-test14;energy2market.de;10.49.84.141;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test15;k8s-test15;energy2market.de;10.49.84.143;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test16;k8s-test16;energy2market.de;10.49.84.154;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"
+test17;k8s-test17;energy2market.de;10.49.84.157;"pks get-kubeconfig ""Clustername"" -u ""USERNAME"" -a api-pks-qa.energy2market.de -k"

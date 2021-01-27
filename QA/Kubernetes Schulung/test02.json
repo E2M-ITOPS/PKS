@@ -1,0 +1,28 @@
+{
+  "name": "test02-np",
+  "description": "test02 ingress network profile",
+  "parameters": {
+    "cni_configurations": {
+      "parameters": {
+        "nsx_ingress_controller": true,
+        "ingress_ip": "10.49.83.62",
+        "nsx_lb": true
+      },
+      "type": "nsxt"
+    },
+    "lb_size": "small",
+    "node_ip_block_ids": [
+      "3d55b9f3-a8cf-4c3b-a821-deacd7a4a328"
+    ],
+    "node_routable": false,
+    "node_subnet_prefix": 26,
+    "pod_ip_block_ids": [
+      "8eb41cc8-70af-4e92-b284-21cd250f3bbf"
+    ],
+    "pod_routable": false,
+    "pod_subnet_prefix": 26,
+    "fip_pool_ids": [
+      "996e02ed-17e7-4a18-8b6d-6e3aef590f1c"
+    ]
+  }
+}

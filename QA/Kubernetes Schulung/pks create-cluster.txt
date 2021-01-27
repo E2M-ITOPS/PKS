@@ -1,0 +1,1 @@
+pks create-cluster test01 --external-hostname k8s-test01.energy2market.de --plan training --network-profile test01-np
