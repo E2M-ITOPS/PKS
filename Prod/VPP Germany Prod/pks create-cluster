@@ -1,0 +1,1 @@
+pks create-cluster vpp-germany --external-hostname k8s-vpp-germany.energy2market.de --plan prod --network-profile vpp-germany-np

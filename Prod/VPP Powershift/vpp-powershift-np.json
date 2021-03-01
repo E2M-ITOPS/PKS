@@ -1,0 +1,28 @@
+{
+  "name": "vpp-powershift-np",
+  "description": "vpp-powershift ingress network profile",
+  "parameters": {
+    "cni_configurations": {
+      "parameters": {
+        "nsx_ingress_controller": true,
+        "ingress_ip": "10.49.83.153",
+        "nsx_lb": true
+      },
+      "type": "nsxt"
+    },
+    "lb_size": "small",
+    "node_ip_block_ids": [
+      "ff389713-fcdb-4554-a05e-e1186d616bf3"
+    ],
+    "node_routable": false,
+    "node_subnet_prefix": 26,
+    "pod_ip_block_ids": [
+      "6160fdb5-3875-4126-87b4-a33f38018cad"
+    ],
+    "pod_routable": false,
+    "pod_subnet_prefix": 26,
+    "fip_pool_ids": [
+      "82b6b61a-5943-4403-9b0b-5573987a4a36"
+    ]
+  }
+}

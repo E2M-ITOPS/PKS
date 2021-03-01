@@ -1,0 +1,1 @@
+pks create-cluster devops --external-hostname k8s-devops.energy2market.de --plan prod_privileged --network-profile devops-np

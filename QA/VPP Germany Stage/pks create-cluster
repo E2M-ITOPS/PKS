@@ -1,0 +1,1 @@
+pks create-cluster vpp-germany-stage --external-hostname k8s-vpp-germany-stage.energy2market.de --plan stage --network-profile vpp-germany-stage-np

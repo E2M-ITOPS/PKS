@@ -1,0 +1,1 @@
+tkgi create-cluster vpp-powershift --external-hostname k8s-vpp-powershift.energy2market.de --plan prod --network-profile vpp-powershift-np
