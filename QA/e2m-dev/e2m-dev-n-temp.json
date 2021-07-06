@@ -1,11 +1,11 @@
 {
-  "name": "e2m-dev-np02",
-  "description": "e2m-dev ingress network profile",
+  "name": "e2m-dev-np-temp",
+  "description": "e2m-dev-temp ingress network profile",
   "parameters": {
     "cni_configurations": {
       "parameters": {
         "nsx_ingress_controller": true,
-        "ingress_ip": "10.49.83.54",
+        "ingress_ip": "10.49.83.65",
         "nsx_lb": true
       },
       "type": "nsxt"
